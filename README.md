@@ -51,5 +51,5 @@ php artisan db:seed
 php artisan serve
 ```
 
-##Documentation: 
+## Documentation
 [Final Internship Project Report](https://drive.google.com/file/d/1l_esJSdk8A89Tr-bbAospw2w_q7jhuuB/view?usp=sharing)
